@@ -135,37 +135,37 @@ body{
 }
 
 
-/* .container {
-    /* padding: 30px; */
-    /* background: rgb(153, 153, 153); */
-    /* overflow:hidden; for float containment */
-/* } */
+.container {
+    padding: 30px;
+    background: rgb(153, 153, 153);
+    overflow:hidden; /* for float containment */
+}
 
-/* .field {
+.field {
     padding:5mm;
     background: #151b29;
     border: 10px solid white;
     float: left;        
     width: 40%;
     -webkit-box-sizing: border-box; /*33% effective width */
-    /* -moz-box-sizing: border-box;
-    box-sizing: border-box; */
-/* }  */
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; 
+} 
 
-/* .skill {
+.skill {
     float: center;
     width: 100px; /*fixed width of label*/
-    /* color:white */
-/* } */ 
+    color:white 
+} 
 
-/* .field div {
-    overflow: hidden; create a new Block Formatting Context 
-} */
+.field div {
+    overflow: hidden; /*create a new Block Formatting Context */
+} 
 
-/* inputs fill the new BFC */
-/* input {
+inputs fill the new BFC
+input {
     width: 100%;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-} */
+}
