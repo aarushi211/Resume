@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     background-image: radial-gradient(#c7c7c7 25%, #c7c7c7 74%);
+    /* background-color: #151b29; */
     font-family: system-ui;
 }
 
@@ -75,7 +76,7 @@ body{
 }
 
 .head{
-    font-size: 17px;
+    font-size: 15px;
     text-transform: uppercase;
     font-weight: 600;
     /* padding-top: 9px; */
@@ -126,12 +127,12 @@ body{
 }
 
 .p-4{
-    font-size: 12.5px;
+    font-size: 12px;
     color: #726464;
 }
 
 .sub-heading {
-    font-size: 15px;
+    font-size: 12px;
     font-weight: 450;
 }
 
