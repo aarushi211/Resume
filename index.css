@@ -50,14 +50,14 @@ body{
 }
 
 .col-div-4{
-    width: 38%;
+    width: 35%;
     float: left;
     text-align: justify;
     text-justify: inter-word;
 }
 
 .col-div-8{
-    width: 58%;
+    width: 60%;
     float: left;
     text-align: justify;
     text-justify: inter-word;
@@ -87,7 +87,7 @@ body{
     margin-bottom: -5px;
     text-align: justify;
     text-justify: inter-word;
-    font-size: 12px;
+    font-size: 11px;
 
 }
 
@@ -99,7 +99,7 @@ body{
     padding-left: 1px;
     margin-right: 5px;
     margin-bottom: 0px;
-    font-size: 12.5px;
+    font-size: 11px;
 }
 
 .skills li {
@@ -127,7 +127,7 @@ body{
 }
 
 .p-4{
-    font-size: 12px;
+    font-size: 11px;
     color: #726464;
 }
 
